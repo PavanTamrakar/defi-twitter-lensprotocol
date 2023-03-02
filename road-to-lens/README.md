@@ -11,4 +11,5 @@ Used [Lens](https://docs.lens.xyz/docs/recommended-profiles) API to get profile 
 For detail of every profile [Get Profile](https://docs.lens.xyz/docs/get-profil).
 Now by clicking any profile it give the details of that perticular Profile..
 
-![image](https://user-images.githubusercontent.com/72463719/222464643-f0caec20-9369-45c9-a1d4-0b2b2a3900bc.png)
+![image](https://user-images.githubusercontent.com/72463719/222471872-c2c4e2af-58f2-4a2d-92a7-6948fcec0694.png)
+
