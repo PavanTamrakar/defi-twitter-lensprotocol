@@ -1,4 +1,4 @@
-Follow me on Lens!! [thepavan](https://orb.ac/@thepavan)
+Follow me on Lens!! [thepavan](https://lenster.xyz/u/thepavan)
 
 ## DeFi Twitter With Lens Protocol
 
